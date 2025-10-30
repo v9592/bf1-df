@@ -104,6 +104,7 @@ Thank you so much (Danke schön! Merci beaucoup!) for visiting the project and w
 * **Roadmap**: a document outlining the schedule of work to be done on a project
 * **Milestone**: an event or state marking a specific stage in development on the project
 * **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
+[查看许可证](./LICENSE.md)
 
 
 [link_ucberkeley]: http://www.berkeley.edu/
